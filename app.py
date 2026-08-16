@@ -22,7 +22,7 @@ PERSONAL_MESSAGE = (
     "May your day be filled with happiness, love, beautiful memories "
     "and everything that makes you smile."
 )
-SURPRISE_MESSAGE = "Today is your day. Keep smiling and keep shining. ❤️"
+SURPRISE_MESSAGE = "Today is your day, my love. ❤️ Keep smiling, keep shining, and keep being the beautiful person you are. Having you in my life is one of the most precious things I could ever ask for. I hope I can be beside you for every birthday, every smile, and every beautiful moment. Happy Birthday, my Nani.. Love u forever. 🎂❤️. ❤️"
 
 # Optional: put an .mp3 file at this path to enable background music.
 AUDIO_PATH = os.path.join("assets", "birthday.mp3")
